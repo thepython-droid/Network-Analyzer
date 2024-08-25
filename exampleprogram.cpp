@@ -1,3 +1,4 @@
+//This is an example code only, to be modified later.
 /*
 #include <cstring>
 #include <iostream>
